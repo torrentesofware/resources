@@ -10,6 +10,7 @@ This a document contain a resources for different projects.
 * https://html5up.net/ 
 * https://bootstrapmade.com/demo/SoftLand/
 * https://www.creative-tim.com/bootstrap-themes/free
+* https://www.mediafire.com/folder/c8oy3hkj964qk/Templates
 
 ## other resources
 
