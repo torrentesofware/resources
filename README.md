@@ -12,6 +12,9 @@ This a document contain a resources for different projects.
 * https://www.creative-tim.com/bootstrap-themes/free
 * https://www.mediafire.com/folder/c8oy3hkj964qk/Templates
 
+## Templates for email
+* https://stripo.email/es/
+
 ## other resources
 * https://undraw.co/illustrations for presentations
 * https://www.yougetsignal.com/ for security
