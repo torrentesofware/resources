@@ -47,3 +47,6 @@ This a document contain a resources for different projects.
 ## SEO TOOLS
 * https://www.google.com/intl/es-419/webmasters/
 * https://www.alexa.com/
+* https://surferseo.com/free-article-outline-generator/
+
+
