@@ -44,6 +44,7 @@ This a document contain a resources for different projects.
 * https://undraw.co/illustrations for presentations
 * https://www.yougetsignal.com/ for security
 * https://www.typeform.com/ generate custionaryes
+* https://ray.so/ for presentations
 
 ## SEO TOOLS
 * https://www.google.com/intl/es-419/webmasters/
